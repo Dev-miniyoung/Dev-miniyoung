@@ -1,4 +1,4 @@
-### Hi there 👋
+### Youngmin Lee👋
 
 <!--
 **Dev-miniyoung/Dev-miniyoung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Interest
+- Front-end technologies such as HTML, CSS, Javascript, React, React-Native etc
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Dev-miniyoung&show_icons=true&count_private=true&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-miniyoung&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
